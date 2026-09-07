@@ -1,6 +1,6 @@
 {
     "version": "2.0.1",
-    "download_url": "https://github.com/T0prakss/ganglauncher/releases/download/v2.0.0/GangLauncher.exe",
+    "download_url": "https://github.com/T0prakss/ganglauncher/releases/download/v2.0.1/GangLauncher.exe",
     "sha256": "",
     "changelog": "Java 21 ve Fabric başlatıcı düzeltmeleri",
     "mandatory": true
